@@ -21,6 +21,6 @@ Our target variable is the valence of hit songs in the US Spotify library that w
 
 ### DATA VISUALIZATION EXAMPLES
 
-<i>***<ins>Note:</ins> All data visualizations and their references are included in the 'EDD_finalProject.pptx' PowerPoint deck.</i>
+<i><ins>Note:</ins> All data visualizations and their references are included in the 'EDD_finalProject.pptx' PowerPoint deck.*</i>
 <img width="273" alt="Hit Songs distributed by supergenre in the 2000s compared to the 2010s" src="https://user-images.githubusercontent.com/85625773/219978349-3747f3ac-b48d-444d-a673-eefb13cb6608.png">
 <img width="269" alt="Hit Songs distributed by valence in the 2000s compared to the 2010s" src="https://user-images.githubusercontent.com/85625773/219978352-06873d2e-b562-4d1e-982e-56b9e0fa93ea.png">
