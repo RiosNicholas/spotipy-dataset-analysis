@@ -13,7 +13,7 @@ Team Members: Nicholas Rios, Victor Armani, Jaevon Lawrence, Adam Abrahim, Domen
 ***
 
 ## BUSINESS PROBLEM: 
-- <b>Testable Hypothesis: Hit tracks in the US Spotify library that were released between the years 2000 and 2019 have decreased in happiness measured in valence by 30%.</b>
-- <b>Alternate Hypothesis</b>: Hit tracks in the US Spotify library that were released between the years 2000 and 2019 have not decreased in happiness measured in valence by 30%. 
+- <b><ins>Testable Hypothesis</ins>: Hit tracks in the US Spotify library that were released between the years 2000 and 2019 have decreased in happiness measured in valence by 30%.</b>
+- <b><ins>Alternate Hypothesis</ins>: Hit tracks in the US Spotify library that were released between the years 2000 and 2019 have not decreased in happiness measured in valence by 30%.</b> 
 
 Our target variable is the valence of hit songs in the US Spotify library that were released between the years 1960 and 2019. Valence is a value between 0 and 1, and we decided that valence values that are at least .6 will be considered happy while those less than .4 are considered unhappy/somber. We will target this data using Python by comparing 'valence' data in the time range among hit songs. 
