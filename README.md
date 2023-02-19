@@ -1,9 +1,9 @@
 # spotipy-dataset-analysis
-### <i>DATA SCIENCE FINAL PROJECT FOR RUTGERS UNIVERSITY–NEWARK COURSE, <ins>EVERYDAY DATA</ins></i>
+## <i>DATA SCIENCE FINAL PROJECT FOR RUTGERS UNIVERSITY–NEWARK COURSE, <ins>EVERYDAY DATA</ins></i>
 Team Members: Nicholas Rios, Victor Armani, Jaevon Lawrence, Adam Abrahim, Domenica Torres
 ***
 
-## BACKGROUND ABOUT DATASET:
+### BACKGROUND ABOUT DATASET:
 - 44894 rows & 21 columns of data consisting of information about hit/flop tracks fetched using Spotify's Web API 
   - Dataset includes tracks ranging from the 1960s to the 2010s.
   - Our focus was narrowed down to tracks ranging from the 1960s to the 2010s.
@@ -12,7 +12,7 @@ Team Members: Nicholas Rios, Victor Armani, Jaevon Lawrence, Adam Abrahim, Domen
   - <i>These terms are not a subjective description of a track's quality, but rather of its popularity in the mainstream, and of its fulfillment of particular requirements.</i>
 ***
 
-## BUSINESS PROBLEM: 
+### BUSINESS PROBLEM: 
 - <b><ins>Testable Hypothesis</ins>: Hit tracks in the US Spotify library that were released between the years 2000 and 2019 have decreased in happiness measured in valence by 30%.</b>
 - <b><ins>Alternate Hypothesis</ins>: Hit tracks in the US Spotify library that were released between the years 2000 and 2019 have not decreased in happiness measured in valence by 30%.</b> 
 
